@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
-<h3 align="center">I'm a skilled Junior Front-end Web Developer with a strong background in communication and UX design</h3>
+<h3 align="center">I'm a skilled Junior Front-end Web Developer with a strong background in communication and UX design.</h3>
 
 <p>I am eager to contribute my skills to support businesses in achieving their goals. I have graduated from a 4-month Front-end Development Bootcamp from edX, gaining proficiency in HTML, CSS, JavaScript, Git, GitHub, jQuery, React, Node.js, RESTful-compliant network requests and UX design principles. My experience also includes the completion of the Foundations of User Experience (UX) Design course from Google, equipping me with an understanding of user-centric design approaches.
 </p>
