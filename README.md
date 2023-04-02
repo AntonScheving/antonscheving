@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **anton@scheving.email**
 
-- ⚡ The way I approach creativity: **Creativity is just connecting things**
+- ⚡ Words I like: 
+- <br>
+-  **Creativity is just connecting things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
