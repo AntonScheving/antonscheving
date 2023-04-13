@@ -24,6 +24,7 @@
 </p>
 
 - 🔭 I’m currently working on [DevPilot](https://github.com/AntonScheving/devpilot)
+a centralized job platform for junior front-end developers in the UK, streamlining the search process by aggregating listings and company profiles, and utilizing multiple technologies to create a seamless, user-friendly experience for those new to the tech industry or changing careers.
 
 - 🌱 I’m currently learning **Javascript**
 
